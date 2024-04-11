@@ -1,7 +1,3 @@
-
-
-## Inverse probability treatment weighting and marginal structural models 
-
-Code to implement IPTW + MSM, along with an option to use TMLE
+Code to implement inverse probability treatment weighting and marginal structural models 
 
 
